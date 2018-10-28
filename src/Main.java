@@ -98,7 +98,7 @@ public class Main {
                 konan.jabatan();
                 break;
             default:
-                System.out.println("Nomor Anda pilih belum tersedia");
+                System.out.println("Nomor yang Anda pilih belum tersedia");
         }
 
 //      Apakah mengulang lagi atau selesai
