@@ -9,10 +9,10 @@ public class Akatsuki {
 //    protected String partnerKerja;
 
     public Akatsuki() {
-        this.nama = nama ;
-        this.asalNegara = asalNegara ;
-        this.elemen = elemen ;
-        this.jutsu = jutsu ;
+        this.nama = " " ;
+        this.asalNegara = " " ;
+        this.elemen = " " ;
+        this.jutsu = " " ;
     }
 
     public void tampilData() {
